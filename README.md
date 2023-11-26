@@ -10,7 +10,7 @@
 3. Prakhar Sharma (12041070)
 
 #### Changes Done in the Repository
-- We Cloned the ([official git repe](https://github.com/dongzelian/SSF))
+- We Cloned the ([official git repo](https://github.com/dongzelian/SSF))
 - We adjusted the code and made it available for CPU and GPU.
 - Updated code for outdated dependencies.
 - Fixed corrupted path.
