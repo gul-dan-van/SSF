@@ -9,7 +9,12 @@
 2. Himanshu Chalpe (12040460)
 3. Prakhar Sharma (12041070)
 
-#### Changes Done in the Repository
+#### Data
+- FGVC & vtab-1k
+- CIFAR-100
+- ImageNet-1K
+
+#### Changes Done in the Repository and Results
 - We Cloned the ([official git repo](https://github.com/dongzelian/SSF))
 - We adjusted the code and made it available for CPU and GPU.
 - Updated code for outdated dependencies.
